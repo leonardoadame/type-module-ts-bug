@@ -1,0 +1,9 @@
+{
+  "name": "type-module-ts-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "typescript": "4.7.4"
+  }
+}

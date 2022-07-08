@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "es2020",
+    "moduleResolution": "Node16", // Change this to Node16 to see the issue
+    "outDir": "../dist",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
